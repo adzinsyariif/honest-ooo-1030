@@ -47,9 +47,9 @@ staying professional). Two revisions then tighten it:
 import os
 
 ENTRY = (
-    "I am away from my desk and, in the interest of honesty, away "
-    "from any desire to open my inbox until I return, when I will "
-    "greet your email as if we have never met - thank you for your patience."
+    "I am out of office and, honestly, away from any desire to open "
+    "my inbox until I return, when I will greet your email like an "
+    "old friend I have been avoiding - thank you for your patience."
 )
 
 
