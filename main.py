@@ -25,7 +25,7 @@ within the limit, so criterion 4 passes for each):
 
   C3 "I am away from my desk and, in the interest of honesty, away
       from any desire to open my inbox until I return, when I will
-      greet your email as if we have never met."
+      greet your email as if we have never met - thank you for your patience."
       H5 P4 Q4 -- the most private truth (no desire at all); the
       'never met' turn is funny but slightly cold.
 
@@ -49,7 +49,7 @@ import os
 ENTRY = (
     "I am away from my desk and, in the interest of honesty, away "
     "from any desire to open my inbox until I return, when I will "
-    "greet your email as if we have never met."
+    "greet your email as if we have never met - thank you for your patience."
 )
 
 
