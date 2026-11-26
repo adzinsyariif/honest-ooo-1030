@@ -34,6 +34,35 @@ within the limit, so criterion 4 passes for each):
       auto-reply is trying its best to help."
       H2 P5 Q3 -- polite and cute, but admits nothing real.
 
+Follow-up round (later session): three fresh alternatives of my
+own, scored the same way, to test whether C3 still wins:
+
+  C5 "I am out of office and your email has joined several hundred
+      others I will greet with sincere apologies and fresh coffee
+      when I return - thank you for your patience."
+      H4 P5 Q4 -- honest about the pileup, warmest of the set;
+      but the truth is about volume, not reluctance, so it is
+      less painfully honest than C3 on criterion 2.
+
+  C6 "I am on leave and, to be honest, not thinking about work at
+      all, but I will give your email my full attention when I
+      return - thank you for your patience."
+      H5 P3 Q2 -- the barest admission, but 'not thinking about
+      work at all' is the riskiest line to forward to a manager
+      (criterion 3) and the phrasing is flat (criterion 5).
+
+  C7 "I am out of office and happily not checking email, which I
+      will face with great bravery on my return - thank you for
+      understanding."
+      H4 P4 Q3 -- 'happily not checking' is honest, but 'great
+      bravery' is generic and less quotable than the old-friend
+      turn.
+
+Verdict of the follow-up round: none beats C3's frame. C5 is
+warmer but less honest; C6 is honester but less manager-safe and
+less quotable; C7 is thinner on both. The right move is to
+sharpen C3's wording, not replace its concept.
+
 Winner: C3 (highest honesty, the judge's first criterion, while
 staying professional). Two revisions then tighten it:
 
@@ -42,14 +71,21 @@ staying professional). Two revisions then tighten it:
   Revision 2: sharpen the quotable turn -- greeting the email 'like
   an old friend I have been avoiding' is warmer and funnier than
   'as if we have never met', and trims the sentence.
+
+  Revision 3 (follow-up): fix the opening parallelism. 'away from
+  any desire to open' was abstract and sounded lazy; 'in no hurry
+  to open my inbox' is the same private truth in understatement,
+  more natural and more manager-safe. 'but when I return I will
+  greet...' folds the promise of action into the sentence instead
+  of bolting it on with a dash, so it reads as one breath.
 """
 
 import os
 
 ENTRY = (
-    "I am out of office and, honestly, away from any desire to open "
-    "my inbox until I return, when I will greet your email like an "
-    "old friend I have been avoiding - thank you for your patience."
+    "I am out of office and, honestly, in no hurry to open my "
+    "inbox, but when I return I will greet your email like an old "
+    "friend I have been avoiding — thank you for your patience."
 )
 
 
