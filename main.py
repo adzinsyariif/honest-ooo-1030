@@ -78,14 +78,21 @@ staying professional). Two revisions then tighten it:
   more natural and more manager-safe. 'but when I return I will
   greet...' folds the promise of action into the sentence instead
   of bolting it on with a dash, so it reads as one breath.
+
+  Revision 4 (final tightening): 'when I return' -> 'on my return'
+  (the idiomatic OOO phrasing, one breath shorter) and 'I have
+  been avoiding' -> "I've been avoiding" (a contraction sounds
+  like a real person, warmer and more quotable, and the smaller
+  text helps the Size tie-break). Honesty and the manager-safe
+  closing are untouched.
 """
 
 import os
 
 ENTRY = (
     "I am out of office and, honestly, in no hurry to open my "
-    "inbox, but when I return I will greet your email like an old "
-    "friend I have been avoiding — thank you for your patience."
+    "inbox, but on my return I will greet your email like an old "
+    "friend I've been avoiding — thank you for your patience."
 )
 
 
